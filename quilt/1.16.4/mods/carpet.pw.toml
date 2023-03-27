@@ -1,0 +1,13 @@
+name = "Carpet"
+filename = "fabric-carpet-1.16.5-1.4.44+v210714.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TQTTVgYE/versions/WwXcEAQl/fabric-carpet-1.16.5-1.4.44%2Bv210714.jar"
+hash-format = "sha1"
+hash = "7184c760c39c1622ebcf1b7d40e32eaacd09f324"
+
+[update]
+[update.modrinth]
+mod-id = "TQTTVgYE"
+version = "WwXcEAQl"

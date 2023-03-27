@@ -1,0 +1,61 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "d2e34b568bdc2ebd3619b65f30ffaf98b430fda3ffd3e20cbef413f8cdad2578"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "a09b440c25be0232694e85c8bbab0735ca828192e3be9fb1d44ef07865cffe43"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "82e1ec3e7cce283cb64a01a9b84021e48a4969736948f88641f093ac7b9f31af"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "9c3db318f2150d87021cb364b23317f5c238d345c7854a2c3623852b744c9957"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "5e22ed283d60cd72e7ae52e4bd8a7ab7af5749557c83ee3a5cb32a87f7524068"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "75514ecc4de7f90c6a2d53d0a6f84da23f915939fe211492b4fb1ec7a41552e0"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "13519f59e318c841d3f97e3fc246693f4d3f7f66f39824a64f47fe1f6f0b42bc"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "065d6c3ef5941de9cfc88eae7cd122903036992ca3d8e784ab296d436d9faa94"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "33ecbbb593844a303a7d21d0dd76b71bef2bca537755c510d8ac0f1968de1cae"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "96f85d03797fb350e3ef228e201ad0bfb34423c05301e3cb1be2777bf2c36b3d"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true

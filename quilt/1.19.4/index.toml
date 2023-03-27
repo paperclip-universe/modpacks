@@ -1,0 +1,91 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "c9739587607d3a2cd808110724def117be4ffc7af11bd2aa3ada64279914a0b2"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "9f787016e772d10343a5d1ffcc30019a722659e6e7c9f658407d354283b24286"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "80f49d10263dca41505fd9a2c41c58209bd8f35ebd242e00e29b14d87abd9955"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "82ed4a2b341e8924a1bd15f2acd2bc5012676c146a22788550d28bbe164def53"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "985c7e59f8f3fc2aaa7f6d4fe27b97a426e8056577f298aa0749a11164ed5730"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "2ffa6237ed942f5734c20ba755ae86592004f977cb6e3e64c34ca19bd60690e2"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "82312494cc4cb1b914968097ff27733905e6af5dec5829cdbdbc86e5c05b421e"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "198a425fc8ba0f2995f99ee3318797016d21c928c0a7c852569215794433e48f"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "663441dd58e115280ce35d9ae94630550b26a4945f35bf6871f75af2becb5ac9"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "b4d3904a4b61cce8ecb2814d74351b58c0c3ff3676fd1064e9a1300d302fc55a"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "3207f43011f1e422c2491333eb3882d761056c76d463cd2e0f7acdd4ce85e97c"
+metafile = true

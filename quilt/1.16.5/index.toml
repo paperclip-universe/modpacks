@@ -1,0 +1,91 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "9fb64135aa8029137484c95a8008b2a5adfd1e33e614f7e04959f57702079000"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "10232a73de053331b003dc55118710c7af56fcdd8de43c36e450bcdf2a565dce"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "052f5b20970caf028e8d9793b5c96d5f244fe195798bd8c33a19fe6f23e43d53"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "3505f84a864af0da9269202edaa08002534f439d41a6cd475cc14b35a3f44963"
+metafile = true
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "0e2e6d5a7f4856d6e2542579a15f369a81c2eda19a7fdacde248f1cf1c258b9f"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "7227ae7ebc90974368b355d80fd7e6bf76e7fe9946237e8cbc9a3f43f3488b0f"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "61c72ce5be0869a31c41c078961e451b82724e09e617ea0fb85c91be9e09b892"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "cc62c39be7b1e92038627ee2d8157b3e96d020aed56957327c1324c3419bad37"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "b2dd1c198be544a8f3b800c24ab90c372f7fc989bb4692f34766d8c3cadcab90"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "f694e5041866e133c16c2777e98b643011432b0bd8d97f2666722f3758fd8b2d"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "7defc57c326a31b1821ed69396f32925d6d429db00420280b53636db7d400b33"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "e2ccf61a06f7fc68edc434cd409804f2e2174433f7368b8042d0b58ef8b83e96"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "fb899cf315501ed13eea82a083194defd2827e126809731b7413a97744cbca90"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "51c317a3ab72589f7f7856a15421f6a52fe2fc73eb81a1b3dd3269dc92252262"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "dd9d3e4300873b12742dcc6a723b9d895de0aa362547b3ef513e5c670d06ead3"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "6580bf16d3cebfb477c431791030a1da19b4e749de66f2d833e07795f1fbfd31"
+metafile = true
+
+[[files]]
+file = "mods/no-fade.pw.toml"
+hash = "83b7dbc5395b618cff9787fdbc9887d4033c9015070a61253b74bf81d13f149e"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "1aa549c1ca077e291285ab3bae72b0131b52f7eb060b0263f50a028f0a366718"
+metafile = true

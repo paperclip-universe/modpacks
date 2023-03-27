@@ -1,0 +1,13 @@
+name = "TweakerMore"
+filename = "tweakermore-mc1.16.5-v3.8.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/GBeCx05I/versions/NSVJKdjh/tweakermore-mc1.16.5-v3.8.1.jar"
+hash-format = "sha1"
+hash = "2e26cc21ed870f9347bf8fedb2c67534e265975c"
+
+[update]
+[update.modrinth]
+mod-id = "GBeCx05I"
+version = "NSVJKdjh"

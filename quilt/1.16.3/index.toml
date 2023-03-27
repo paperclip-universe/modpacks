@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "b48cc5ad74fda427b29c225a48808b9741f923c0617bfe9ab99370e8f3635368"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "77852246152e4933a0a528fc05f82cd908bbe75922bd6ccb55c05415f80e5da4"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "dda8295c6d3b435eb124f41293b5aba3b04993472434e75808c122661698a602"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "cc62c39be7b1e92038627ee2d8157b3e96d020aed56957327c1324c3419bad37"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "ebe7aab426a291d0fc2da7a4e6d59d9a2c21e392ad8ec5d7e11bb1a5609e0eac"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "65bf6911787bf7e531bb536a6bdde867c36b7652664abe0a800f23687fb2cada"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "fb899cf315501ed13eea82a083194defd2827e126809731b7413a97744cbca90"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "8ec7c0606e7e063233161bd7018aecf6bdd12207278c3585d56694961d69ef92"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "7d1befec3f258b7d71c3cb5c82f4d8c837683a2b6c2bceb488e6797a0872b001"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "dd9d3e4300873b12742dcc6a723b9d895de0aa362547b3ef513e5c670d06ead3"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "cfff77a6b3c6fd42810c9e2b10e5243258b4949f3935e9e0708f65aed580360c"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "6580bf16d3cebfb477c431791030a1da19b4e749de66f2d833e07795f1fbfd31"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "13519f59e318c841d3f97e3fc246693f4d3f7f66f39824a64f47fe1f6f0b42bc"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "f9d7e8933a8910c67e2d56df0bea1e09aa1d822218ae2a8244941118d31bad40"
+metafile = true
+
+[[files]]
+file = "mods/no-fade.pw.toml"
+hash = "83b7dbc5395b618cff9787fdbc9887d4033c9015070a61253b74bf81d13f149e"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "082d202257610559228e6bea1d1068fe25eba87c306dc4142e874f118ac8949f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "9c4e3a0c0ff87800b1d9b838c6fdf2fa0d026d7fcb4d39ea9e3085bf58d60a44"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "dfae39183ee753bc76f63d9c2770b3b92297b028b9437185fc822891c4bb621a"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "1aa549c1ca077e291285ab3bae72b0131b52f7eb060b0263f50a028f0a366718"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true

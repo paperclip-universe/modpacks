@@ -1,0 +1,61 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "25eb272f5f04290914e0b4c7370cf0ee059ee11888c43b8fd2805aaafecfa39c"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "e72f6c945e8327853d46a74e28324761f22cd410b8cf3f86506d694ec9acf078"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "46b444dc88aac495a314699961072c72b16661130aff501d176a2b8c12c49b72"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "d1af6c2e18703f31e3cab96e2c50a4718b3bc219c9d56d6a6f62739aa2e7803a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "c5556efa17ec13eeaaf3095d2f64e81d8a53c5cb6241896b61d99c2c2d5679cd"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "3926d859126491c673d921c3f3f93316766689ff0694f83d82255ec4776d3c74"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "27285fea77495b3bf1eb6859524a89217a8d1eb122a24fc0c9d0230178a8b5a5"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "c5edf1f8114b808f9a63134f2973745b3e4172478b7f0aec5c9359f1325f37da"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "cae35ac580a50a5e2aef20d676b2d51175309985c68bfe891e04425bf8478037"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "a50adf5dc08750b87e7681fb99637e39660e61befc795793023f4024ec7eeec3"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
+metafile = true

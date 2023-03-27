@@ -1,0 +1,71 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/anazm.pw.toml"
+hash = "9092a1bbc0162e7e23cbd9d4d4a290b18cea13a0889ab87a8d146aaf165fc564"
+metafile = true
+
+[[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "9574cd772cc6cf783acd6d4f550619e9203e333bbeb8476f5d1dae48200222fb"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "a00699f9ffdff409a2b3728a164f194be9b029703c6dff6f2c1883e003b560d5"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "ebe4bdf67570686759667922381324560cd5890ae73c826d1d45676b19059d93"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "3b27a65dde7a74841332ce384603f9321eef3d6474402f4a43be32a48240a6c6"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "98808bf1e0be79acf5112b5bd3546285faf94028bca97cc4baa8ab20db893495"
+metafile = true
+
+[[files]]
+file = "mods/no-fade.pw.toml"
+hash = "a416e9f6c7b161db34a8aaa354944769751f4f355ba454f71bbfdfb738398992"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "d1f66cb84fad3c33a22ce0ab5e26b49e257dd2fb3370636248a3891133ce0879"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "082d202257610559228e6bea1d1068fe25eba87c306dc4142e874f118ac8949f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "ac0c43a14094ea53b319d830a034d225c9420e4e25284e17236e4fb0545d16ca"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2cb2b2044de9165cfb429946b23ca35e98df33778a6a32e71fd6e91dd73dac12"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "c4d2ac155584dddf2b882d50c62f834251461e9187ad49d7f72d7918c99cee8f"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true

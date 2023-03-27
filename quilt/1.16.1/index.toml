@@ -1,0 +1,71 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "10232a73de053331b003dc55118710c7af56fcdd8de43c36e450bcdf2a565dce"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "09cc851e5c25c3b956b2d09714e0c5977165122a3d5fc5d61f6a2cc8361b1b88"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "cc62c39be7b1e92038627ee2d8157b3e96d020aed56957327c1324c3419bad37"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "1030ea269128774962cedda8666eff35cd0d235f3da766af3e57223b99ed3df2"
+metafile = true
+
+[[files]]
+file = "mods/fabrishot.pw.toml"
+hash = "fb899cf315501ed13eea82a083194defd2827e126809731b7413a97744cbca90"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "dafe252d4495456fd28443a0f125919c09401f7b8db91facf1148c14fa757564"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "afedf6dc4f2726fe2c7bc6714c3b2d9e935f1aad0b76714e98ec449ca85d6fbc"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "13519f59e318c841d3f97e3fc246693f4d3f7f66f39824a64f47fe1f6f0b42bc"
+metafile = true
+
+[[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "f9d7e8933a8910c67e2d56df0bea1e09aa1d822218ae2a8244941118d31bad40"
+metafile = true
+
+[[files]]
+file = "mods/no-fade.pw.toml"
+hash = "83b7dbc5395b618cff9787fdbc9887d4033c9015070a61253b74bf81d13f149e"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "082d202257610559228e6bea1d1068fe25eba87c306dc4142e874f118ac8949f"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "0a429c0a0c4af8ebebb6cbd8fa76968e6cecac9297266296dac870982d8671b2"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true

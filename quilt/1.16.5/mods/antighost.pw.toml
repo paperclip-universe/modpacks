@@ -1,0 +1,13 @@
+name = "AntiGhost"
+filename = "antighost-1.16.5-fabric0.30.0-1.1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jw3Wx1KR/versions/1.16.5-fabric0.30.0-1.1.3/antighost-1.16.5-fabric0.30.0-1.1.3.jar"
+hash-format = "sha1"
+hash = "81665c43695ae5d18e4807790e37a881c4aa4e7f"
+
+[update]
+[update.modrinth]
+mod-id = "Jw3Wx1KR"
+version = "V7J7tuy9"

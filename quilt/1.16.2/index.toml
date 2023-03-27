@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "f0b733053e4f5154cf9573a55cce85d513b89056d7cf7c17f7ef43dd78101b86"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "10232a73de053331b003dc55118710c7af56fcdd8de43c36e450bcdf2a565dce"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "3505f84a864af0da9269202edaa08002534f439d41a6cd475cc14b35a3f44963"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "77852246152e4933a0a528fc05f82cd908bbe75922bd6ccb55c05415f80e5da4"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "dda8295c6d3b435eb124f41293b5aba3b04993472434e75808c122661698a602"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "cc62c39be7b1e92038627ee2d8157b3e96d020aed56957327c1324c3419bad37"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "349447b0efb11e31fe5a5b58429b6a889d829a5d5db8b8bd7b1412e76f3edc2c"
+metafile = true
+
+[[files]]
+file = "mods/litematica.pw.toml"
+hash = "dd9d3e4300873b12742dcc6a723b9d895de0aa362547b3ef513e5c670d06ead3"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "6580bf16d3cebfb477c431791030a1da19b4e749de66f2d833e07795f1fbfd31"
+metafile = true
+
+[[files]]
+file = "mods/no-fade.pw.toml"
+hash = "83b7dbc5395b618cff9787fdbc9887d4033c9015070a61253b74bf81d13f149e"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "1aa549c1ca077e291285ab3bae72b0131b52f7eb060b0263f50a028f0a366718"
+metafile = true

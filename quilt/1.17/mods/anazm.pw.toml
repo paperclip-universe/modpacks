@@ -1,0 +1,13 @@
+name = "Absolutely Not A Zoom Mod"
+filename = "Absolutely-Not-A-Zoom-Mod-1.0.3-universal.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/atfHRJtL/versions/fabric-1.0.3-universal/Absolutely-Not-A-Zoom-Mod-1.0.3-universal.jar"
+hash-format = "sha1"
+hash = "3f681291e3405eb56b0ca9de16193131acaae2dd"
+
+[update]
+[update.modrinth]
+mod-id = "atfHRJtL"
+version = "yaYCzMwX"
