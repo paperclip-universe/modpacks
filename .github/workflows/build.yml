@@ -35,11 +35,28 @@ jobs:
       # Get version
       - run: echo "VERSION=$(cat .version)" >> $GITHUB_ENV
         name: Get version
-      # Release artifacts to GitHub
-      - uses: marvinpinto/action-automatic-releases@latest
+      # Release artifacts
+      - uses: Kir-Antipov/mc-publish@v3.2
         with:
-          repo_token: ${{ secrets.GITHUB_TOKEN }}
-          files: out/*
-          automatic_release_tag: latest
-          prerelease: false
-          title: Redflow v${{ env.VERSION }}
+          modrinth-id: Fe2hWp6Z
+          modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
+          modrinth-unfeature-mode: subset
+          modrinth-files: "*.mrpack"
+          loaders: quilt
+          game-versions: |
+            - "1.15.2"
+            - "1.16.1"
+            - "1.16.2"
+            - "1.16.3"
+            - "1.16.4"
+            - "1.16.5"
+            - "1.17"
+            - "1.17.1"
+            - "1.18"
+            - "1.18.1"
+            - "1.18.2"
+            - "1.19"
+            - "1.19.1"
+            - "1.19.2"
+            - "1.19.3"
+            - "1.19.4"
