@@ -17,7 +17,7 @@ jobs:
         name: Install NodeJS
       - uses: actions/setup-go@v4
         with:
-          go-version: latest
+          go-version: stable
         name: Install Go
       - uses: pnpm/action-setup@v2
         with:
