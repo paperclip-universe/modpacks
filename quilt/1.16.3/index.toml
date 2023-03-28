@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "10232a73de053331b003dc55118710c7af56fcdd8de43c36e450bcdf2a565dce"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "3505f84a864af0da9269202edaa08002534f439d41a6cd475cc14b35a3f44963"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "b48cc5ad74fda427b29c225a48808b9741f923c0617bfe9ab99370e8f3635368"
 metafile = true
@@ -67,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "13519f59e318c841d3f97e3fc246693f4d3f7f66f39824a64f47fe1f6f0b42bc"
+hash = "cc96b763f305fbdbf96bff3541b1a0314586d8ec3b6c87732b20409a46c22ba8"
 metafile = true
 
 [[files]]
@@ -98,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "1aa549c1ca077e291285ab3bae72b0131b52f7eb060b0263f50a028f0a366718"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "48f2ad2da440e7fd26fc3a7bf6687346599972e814d460fbdf6f38b33049a3df"
 metafile = true
 
 [[files]]

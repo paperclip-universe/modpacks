@@ -37,7 +37,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "13519f59e318c841d3f97e3fc246693f4d3f7f66f39824a64f47fe1f6f0b42bc"
+hash = "cc96b763f305fbdbf96bff3541b1a0314586d8ec3b6c87732b20409a46c22ba8"
 metafile = true
 
 [[files]]
@@ -53,6 +53,11 @@ metafile = true
 [[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "96f85d03797fb350e3ef228e201ad0bfb34423c05301e3cb1be2777bf2c36b3d"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "f5b55b11bea671c779480917232bff2219442b4fcc3b62e7d4f413aad0322396"
 metafile = true
 
 [[files]]

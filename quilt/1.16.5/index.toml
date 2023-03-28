@@ -21,6 +21,16 @@ hash = "3505f84a864af0da9269202edaa08002534f439d41a6cd475cc14b35a3f44963"
 metafile = true
 
 [[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "824dd9b51f68064d2df955b88556302995d1fc49767ec1c600b087beb50d8c16"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "b48cc5ad74fda427b29c225a48808b9741f923c0617bfe9ab99370e8f3635368"
+metafile = true
+
+[[files]]
 file = "mods/dashloader.pw.toml"
 hash = "0e2e6d5a7f4856d6e2542579a15f369a81c2eda19a7fdacde248f1cf1c258b9f"
 metafile = true
@@ -71,8 +81,38 @@ hash = "51c317a3ab72589f7f7856a15421f6a52fe2fc73eb81a1b3dd3269dc92252262"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "1629bdab584c04d02ac3da81340e0d48b611b6ac6044d677fcdc32d4ba4a4da2"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "ac7ceb740419d62d6ef9c2f9af2cdae2f13476b0ad445d77a6e922feb5b40f33"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "8ec7c0606e7e063233161bd7018aecf6bdd12207278c3585d56694961d69ef92"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "7d1befec3f258b7d71c3cb5c82f4d8c837683a2b6c2bceb488e6797a0872b001"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
 file = "mods/litematica.pw.toml"
 hash = "dd9d3e4300873b12742dcc6a723b9d895de0aa362547b3ef513e5c670d06ead3"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "cfff77a6b3c6fd42810c9e2b10e5243258b4949f3935e9e0708f65aed580360c"
 metafile = true
 
 [[files]]
@@ -81,11 +121,61 @@ hash = "6580bf16d3cebfb477c431791030a1da19b4e749de66f2d833e07795f1fbfd31"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "cc96b763f305fbdbf96bff3541b1a0314586d8ec3b6c87732b20409a46c22ba8"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "990ac06e16de11d0bfde772bf929d599404b7183fc922d67990fc3dff6c85682"
+metafile = true
+
+[[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "8ef7a314068f354c9884e0d1a71cc647843b61c9be3b786742d796166b91bfb5"
+metafile = true
+
+[[files]]
 file = "mods/no-fade.pw.toml"
 hash = "83b7dbc5395b618cff9787fdbc9887d4033c9015070a61253b74bf81d13f149e"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "748714dcfedd603a422361127773a00c693d48e4fafb99dcc30c3108b7afca63"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "082d202257610559228e6bea1d1068fe25eba87c306dc4142e874f118ac8949f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "d5b11b9bb4df8cf799eecbece01102e9bd1d83876d93d2b9a15666a1601b7e2b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "dfae39183ee753bc76f63d9c2770b3b92297b028b9437185fc822891c4bb621a"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "a948c5aaa187aa7bd16c58130056e1e52353d8f84bd2d4f88c28b7b76620748a"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "1aa549c1ca077e291285ab3bae72b0131b52f7eb060b0263f50a028f0a366718"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "48f2ad2da440e7fd26fc3a7bf6687346599972e814d460fbdf6f38b33049a3df"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true

@@ -1,0 +1,13 @@
+name = "WorldEdit"
+filename = "worldedit-fabric-mc1.15.2-7.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c80d6bf16b2d5b4c14e303b124e254e2248fc42e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 2869472
+project-id = 225608

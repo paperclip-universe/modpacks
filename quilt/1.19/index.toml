@@ -41,6 +41,21 @@ hash = "eaba2f41f04c306118190beb2a2bf4a44263e0196a106b9c8a9bfddff038afab"
 metafile = true
 
 [[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "86563961328c167bbc16fbff56d1c9a54f192749c5da3615a571a2968e00f841"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "399288e645b61c23955cd88d8c38733f792efcedc98fd0e62b996421927703f1"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "62f00b23d55f8eaa2e4236a53000c888d5437636472abf841cbdf6649b6b5ac1"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "7f63923d2240d002b0d113eec8a2fea4869837c09386faed9e1a4d096552d594"
 metafile = true
@@ -48,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
@@ -88,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "4c23ff3cad52f61e9e65429d836432efcd6ea15970cb59538e23fcf275dfc82f"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "3ecd59b2ab957aadc6759fdb82b82d63c03dfef49c1199f271078659e94cdbf1"
 metafile = true
 
 [[files]]
@@ -177,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
+hash = "463b4e536a6ab322ee48a4cc71d6d97eb2ff9958851ea7549792a1b8d524f723"
 metafile = true
 
 [[files]]
@@ -211,8 +236,43 @@ hash = "d89fe3b22b4261c4c9dc8351c9c5a7dd3ed754fd7dbb9c7428ef051334163b1f"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "db19edc58c7779aba173e9aae60a550f16535f9395046afc870982157aaedb5a"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
+metafile = true
+
+[[files]]
 file = "mods/no-fade.pw.toml"
 hash = "c91a0e5e41ca1131346bec3429a5b54dd46ca826a228620b52333de9184a864a"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "02afa656e08ce408c1b541e60d9126b8bac35b55a26950547291ee8f54c1899d"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a861006c66175659b11c63a2e3872852b58626e7bb756bf39213cef991c490be"
 metafile = true
 
 [[files]]
@@ -221,6 +281,41 @@ hash = "0d539d8bad8493d4196bf5f7bf216d692384f283849fa41a2e5a816a0147673e"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "4e7d60bf13fc2d16065c2b5ea4f666e5b2796fd573b453b12394d3a89a10ac32"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "2bf332f43dd6858e29e18da850bdcc9bf2492dbc70034f9563f0083099c22f39"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "b19bfecaa3743b5394e187d1a9d1cf516711cd95841345b02bbcc4d25a1dbd13"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "3712c67c4b3626bd4488df8dde5d741e04aa8e255a18b42d5eb52f35a3fb6551"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "a50adf5dc08750b87e7681fb99637e39660e61befc795793023f4024ec7eeec3"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "df9929f0a90f0c54a870ed182c0543ce579d07b84089d2fec6131917c53b5bab"
 metafile = true

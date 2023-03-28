@@ -41,6 +41,21 @@ hash = "83d8a8865dfe81276fabc0c7085106a760608c0a3d569716fc77b3d0cb4d4c0d"
 metafile = true
 
 [[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "02d0411a37057bdb234f75c2063cdcbc3a37b84d8aa3c2f5aa67ec814352accb"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "8ba6f2e3b5ca0d5d274d3b1b14d6d491fe1cd720f0c882724cc17854bdac9b53"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "64858dde2ddc095fc4ac29bcc2bcb6f397bc01890c0b71f78f309e0dcc3243b4"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "4830a70a299bd27667a9cc64637364a65eb876175153a076c8da9398e9be89ff"
 metafile = true
@@ -192,7 +207,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
+hash = "463b4e536a6ab322ee48a4cc71d6d97eb2ff9958851ea7549792a1b8d524f723"
 metafile = true
 
 [[files]]
@@ -241,8 +256,38 @@ hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "9f099a192392ee51ed679dad76f74806cf1c2fa8c8a37ae015f22c208cfa8236"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
+metafile = true
+
+[[files]]
+file = "mods/smoothboot-fabric.pw.toml"
+hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4b3e56fec52c8a95bb59e11f745be3a5ed8a527714cb4b5fb8ac5b7bf3cc662f"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "1ab96020d0954a72b5cc150b375f57cf8968ac2c1809a000472076f8675eb9ea"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/tweakermore.pw.toml"
+hash = "b6753279fd0a377fd88fbd34b6eb84d88c906af67cdfdcfa338971a558a23a94"
 metafile = true
 
 [[files]]
@@ -251,8 +296,23 @@ hash = "43c03287e02e8cec03c996d184b629577689306c9009e5f145623e79376e3f33"
 metafile = true
 
 [[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "f60dab2c1cf96a1d156c35f24fe90b1b6208202eb59caff77f6348066277e549"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "700c7d3d7d4eb1f5eb8b4ef78ea79b6d230db33107404b26e17644c6871f01e7"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "72214bf1c5210d1fd5d47f5fe354310ea7d7e1268eb48574c0655d6d4f4d5c42"
 metafile = true
 
 [[files]]

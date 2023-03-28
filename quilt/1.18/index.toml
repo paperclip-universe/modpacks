@@ -41,6 +41,16 @@ hash = "358f4d6dac094fac97bf0108748de4eb442665a7a26f1b63e45c1b1adf6fed27"
 metafile = true
 
 [[files]]
+file = "mods/carpet-fixes.pw.toml"
+hash = "1819d757d5664a7f0722d615d9fd651e3cd2b0bb21c2ada7d5bc7f73832f0c0c"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "9ffe14a7340fb9f425a3f017eaa0df94d243c50921f3d4045cb21da396b40c9c"
+metafile = true
+
+[[files]]
 file = "mods/cem.pw.toml"
 hash = "727c319290b015a46f54f379fdb32b1a8eeb649c85bb7409fe3b9ffd3ebe5d22"
 metafile = true
@@ -162,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "73016b3eee768165722134b3eaab88cddeabfe70410f9ae8eb5281eaecc06dd2"
+hash = "463b4e536a6ab322ee48a4cc71d6d97eb2ff9958851ea7549792a1b8d524f723"
 metafile = true
 
 [[files]]
@@ -221,6 +231,26 @@ hash = "2927420b13bd1abc2cf18ea05ce1ee3e0b6a54e85218485ddf88548770da1eb6"
 metafile = true
 
 [[files]]
+file = "mods/starlight.pw.toml"
+hash = "d79532f66866783d15fd5a7f19e5855daeeedafc0585bd7a49d1144259d003d5"
+metafile = true
+
+[[files]]
 file = "mods/tweakeroo.pw.toml"
 hash = "d25a3e2f4ca95ddd986bc54e17a5f067c0363b098fc5df4359ff4dc79e841c46"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "a43608f8bb4bce1446ec0cdbea8e11a38f1105b34d44bde2e705720cfe25391c"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "mods/zoomify.pw.toml"
+hash = "e6ba9de793b4a2f17af696d125a115aa0f1b664fc9403cbedb122479980ce25d"
 metafile = true

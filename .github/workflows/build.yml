@@ -1,0 +1,45 @@
+on:
+  push:
+    paths:
+      - .version
+  workflow_dispatch:
+
+jobs:
+  create-release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        name: Checkout
+      # Install NodeJS, pnpm, and Go
+      - uses: actions/setup-node@v2
+        with:
+          node-version: latest
+        name: Install NodeJS
+      - uses: actions/setup-go@v4
+        with:
+          go-version: latest
+        name: Install Go
+      - uses: pnpm/action-setup@v2
+        with:
+          version: latest
+        name: Install PNPM
+      # Install packwiz
+      - run: go install github.com/packwiz/packwiz@latest
+        name: Install Packwiz
+      # Install pnpm dependencies
+      - run: pnpm install
+        name: Install dependencies
+      # Run scripts
+      - run: pnpm build
+        name: Build modpack
+      # Get version
+      - run: echo "VERSION=$(cat .version)" >> $GITHUB_ENV
+        name: Get version
+      # Release artifacts to GitHub
+      - uses: marvinpinto/action-automatic-releases@latest
+        with:
+          repo_token: ${{ secrets.GITHUB_TOKEN }}
+          files: out/*
+          automatic_release_tag: latest
+          prerelease: false
+          title: Redflow v${{ env.VERSION }}
