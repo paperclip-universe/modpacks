@@ -3,6 +3,11 @@ on:
     paths:
       - .version
   workflow_dispatch:
+    inputs:
+      skip-build:
+        description: "Skip build step"
+        required: false
+        default: "true"
 
 jobs:
   create-release:
@@ -31,7 +36,11 @@ jobs:
         name: Install dependencies
       # Run scripts
       - run: pnpm build
+        if: ${{ github.event.inputs.skip-build != 'true' }}
         name: Build modpack
+      - run: pnpm run build:generate
+        if: ${{ github.event.inputs.skip-build == 'true' }}
+        name: Generate modpack
       # Get version
       - run: echo "VERSION=$(cat .version)" >> $GITHUB_ENV
         name: Get version
@@ -41,7 +50,7 @@ jobs:
           modrinth-id: Fe2hWp6Z
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: subset
-          modrinth-files: "*.mrpack"
+          modrinth-files: "out/*.mrpack"
           loaders: quilt
           game-versions: |
             - "1.15.2"
