@@ -34,6 +34,13 @@ jobs:
       # Install pnpm dependencies
       - run: pnpm install
         name: Install dependencies
+      # Cache modpack files (out/*.mrpack)
+      - uses: actions/cache@v2
+        with:
+          path: out
+          key: packwiz-${{ hashFiles('**/pack.toml') }}
+          restore-keys: |
+            packwiz-
       # Run scripts
       - run: pnpm build
         if: ${{ github.event.inputs.skip-build != 'true' }}
