@@ -59,6 +59,7 @@ jobs:
           modrinth-unfeature-mode: subset
           modrinth-files: "out/*.mrpack"
           loaders: quilt
+          version: ${{ env.VERSION }}
           game-versions: |
             - "1.15.2"
             - "1.16.1"
