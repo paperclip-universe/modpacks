@@ -45,14 +45,19 @@ jobs:
       - run: echo "MODPACK_VERSION=$(cat .version)" >> $GITHUB_OUTPUT
         name: Get version
         id: version
+      # List all files that aren't 1.19.4
+      - run: echo "FILES=$(find out -type f -not -name '*1.19.4.mrpack')" >> $GITHUB_OUTPUT
+        name: Get files
+        id: files
       # Release artifacts
       - uses: Kir-Antipov/mc-publish@v3.2
         with:
           modrinth-id: Fe2hWp6Z
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: subset
-          modrinth-files: "out/*.mrpack"
-          # files-primary: "out/*1.19.4.mrpack"
+          files-primary: "out/*1.19.4.mrpack"
+          # All the non-1.19.4 files are uploaded as secondary files
+          files-secondary: ${{ steps.files.outputs.FILES }}
           loaders: quilt
           version: ${{ steps.version.outputs.MODPACK_VERSION }}
           game-versions: |
