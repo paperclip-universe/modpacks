@@ -49,8 +49,9 @@ jobs:
         if: ${{ github.event.inputs.skip-build == 'true' }}
         name: Generate modpack
       # Get version
-      - run: echo "VERSION=$(cat .version)" >> $GITHUB_ENV
+      - run: echo "MODPACK_VERSION=$(cat .version)" >> $GITHUB_OUTPUT
         name: Get version
+        id: version
       # Release artifacts
       - uses: Kir-Antipov/mc-publish@v3.2
         with:
@@ -59,7 +60,7 @@ jobs:
           modrinth-unfeature-mode: subset
           modrinth-files: "out/*.mrpack"
           loaders: quilt
-          version: ${{ env.VERSION }}
+          version: ${{ steps.version.outputs.MODPACK_VERSION }}
           game-versions: |
             - "1.15.2"
             - "1.16.1"
