@@ -52,7 +52,7 @@ jobs:
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: subset
           modrinth-files: "out/*.mrpack"
-          files-primary: "out/*1.19.4.mrpack"
+          # files-primary: "out/*1.19.4.mrpack"
           loaders: quilt
           version: ${{ steps.version.outputs.MODPACK_VERSION }}
           game-versions: |
