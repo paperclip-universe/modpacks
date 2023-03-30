@@ -1,6 +1,6 @@
 name = "Redstonality"
 author = "Wyatt Stanke"
-version = "0.0.1"
+version = "0.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]

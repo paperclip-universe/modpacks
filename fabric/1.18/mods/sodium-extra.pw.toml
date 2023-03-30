@@ -1,0 +1,13 @@
+name = "Sodium Extra"
+filename = "sodium-extra-mc1.18-0.3.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PtjYWJkn/versions/mc1.18-0.3.7/sodium-extra-mc1.18-0.3.7.jar"
+hash-format = "sha1"
+hash = "058b2d44f3f34215144c3c7efa306b7cc869ca21"
+
+[update]
+[update.modrinth]
+mod-id = "PtjYWJkn"
+version = "iChhfRqr"

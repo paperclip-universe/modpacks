@@ -16,3 +16,5 @@ export const versions = [
 	"1.19.3",
 	"1.19.4",
 ];
+
+export const loaders = ["quilt", "fabric"];

@@ -45,7 +45,7 @@ jobs:
       - run: echo "MODPACK_VERSION=$(cat .version)" >> $GITHUB_OUTPUT
         name: Get version
         id: version
-      - run: mv out/*1.19.4.mrpack ./
+      - run: mv out/*1.19.3.mrpack ./
         name: Rename main file
       # Release artifacts
       - uses: Kir-Antipov/mc-publish@v3.2
@@ -54,7 +54,7 @@ jobs:
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: subset
           files-primary: "*.mrpack"
-          # All the non-1.19.4 files are uploaded as secondary files
+          # All the non-1.19.3 files are uploaded as secondary files
           files-secondary: out/*.mrpack
           loaders: quilt
           version: ${{ steps.version.outputs.MODPACK_VERSION }}

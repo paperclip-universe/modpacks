@@ -1,0 +1,13 @@
+name = "Dynamic FPS"
+filename = "dynamic-fps-2.0.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LQ3K71Q1/versions/v2.0.4/dynamic-fps-2.0.4.jar"
+hash-format = "sha1"
+hash = "a172c61df0a4deffa669d19f7dd83282b2ea0210"
+
+[update]
+[update.modrinth]
+mod-id = "LQ3K71Q1"
+version = "oIZUkvvs"

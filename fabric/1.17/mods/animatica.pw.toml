@@ -1,0 +1,13 @@
+name = "Animatica"
+filename = "animatica-0.1+1.17.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/PRN43VSY/versions/0.1%2B1.17/animatica-0.1%2B1.17.jar"
+hash-format = "sha1"
+hash = "c8b4ce824aa236b0cdb845db8571e73311006c6a"
+
+[update]
+[update.modrinth]
+mod-id = "PRN43VSY"
+version = "NXTzSfcj"

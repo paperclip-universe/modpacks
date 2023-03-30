@@ -67,3 +67,4 @@ modrinth/tweakermore
 
 # Building
 curseforge/worldedit
+curseforge/effortless-building

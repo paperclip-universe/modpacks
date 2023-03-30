@@ -9,6 +9,10 @@
 		"build:sync:mods": "pnpx zx ./scripts/syncMods.js",
 		"build:sync:versions": "pnpx zx ./scripts/syncVersions.js",
 		"build:generate": "pnpm run build:generate:modrinth",
-		"build:generate:modrinth": "pnpx zx ./scripts/generateModrinth.js"
+		"build:generate:modrinth": "pnpx zx ./scripts/generateModrinth.js",
+		"prepare": "husky install"
+	},
+	"devDependencies": {
+		"husky": "^8.0.3"
 	}
 }
