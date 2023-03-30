@@ -7,7 +7,7 @@ on:
       skip-build:
         description: "Skip build step"
         required: false
-        default: "true"
+        default: "false"
 
 jobs:
   create-release:
