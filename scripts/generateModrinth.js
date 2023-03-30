@@ -2,6 +2,10 @@
 import { SingleBar, Presets } from "cli-progress";
 import { versions, loaders } from "./consts.js";
 
+function capitalizeFirstLetter(string) {
+	return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
 const bar = new SingleBar(
 	{
 		format: " {bar} | {value}/{total} | {version} | {loader} | ETA: {eta}s",
@@ -21,7 +25,9 @@ for (const version of versions) {
 		cd(`${loader}/${version}`);
 		await $`rm -rf *.mrpack`;
 		await $`packwiz modrinth export -y`;
-		await $`mv *.mrpack "Redstonality v${packVersion} for ${version} via ${loader}.mrpack"`;
+		await $`mv *.mrpack "Redstonality v${packVersion} for ${version} via ${capitalizeFirstLetter(
+			loader
+		)}.mrpack"`;
 		await $`mv *.mrpack ../../out/`;
 		cd("../..");
 		bar.increment();
