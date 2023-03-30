@@ -56,7 +56,9 @@ jobs:
           files-primary: "*.mrpack"
           # All the non-1.19.3 files are uploaded as secondary files
           files-secondary: out/*.mrpack
-          loaders: quilt
+          loaders: |
+            quilt
+            fabric
           version: ${{ steps.version.outputs.MODPACK_VERSION }}
           game-versions: |
             1.15.2
