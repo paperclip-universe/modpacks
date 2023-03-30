@@ -6,4 +6,5 @@ if [ -e .commit ]
     rm .commit
     git add .
     git commit --amend -C HEAD --no-verify
-fiundefined
+	echo "Autocommited new changes"
+fi
