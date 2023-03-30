@@ -1,6 +1,6 @@
 #!/usr/bin/env zx
 import { SingleBar, Presets } from "cli-progress";
-import { versions, loaders } from "./versions.js";
+import { versions, loaders } from "./consts.js";
 
 const bar = new SingleBar(
 	{
