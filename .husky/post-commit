@@ -1,10 +1,9 @@
 #!/usr/bin/env sh
 . "$(dirname -- "$0")/_/husky.sh"
 
-if [ -e .commit ]
-    then
-    rm .commit
-    git add .
-    git commit --amend -C HEAD --no-verify
+if [ -e .commit ]; then
+	rm .commit
+	git add ./**/pack.toml
+	git commit --amend -C HEAD --no-verify
 	echo "Autocommited new changes"
 fi
