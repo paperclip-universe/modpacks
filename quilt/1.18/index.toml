@@ -254,3 +254,8 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "e6ba9de793b4a2f17af696d125a115aa0f1b664fc9403cbedb122479980ce25d"
 metafile = true
+
+[[files]]
+file = "resourcepacks-y/redstone-tweaks.pw.toml"
+hash = "b9c3c39d31283df5b36e0284f38c2c798910933b3e1fcaf728847fb416f62d7f"
+metafile = true

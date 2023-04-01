@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "5b55762b678094a36f95f5f940e7c9c09543045ca3b1be5edec4e373e0387cab"
+hash = "901631d9b66ecb1cda0d8a2aa79be0ccbbeeed1e0ef1bddfb31ef3bc196b0e3a"
 metafile = true
 
 [[files]]
@@ -136,6 +136,11 @@ hash = "ef2f37f8f7eb3481d6d379b54b6607fc7e2b51be0a8fabeccdb0e39ae01cba0c"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "f573cac2ec9cd88456c545e177753791c91a38ba0a46c4ad4c87e5a7878664ea"
+metafile = true
+
+[[files]]
 file = "mods/language-reload.pw.toml"
 hash = "741141875e3195675988173f2ee04ec2cef83d536dfdae9382f8144013737865"
 metafile = true
@@ -157,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "463b4e536a6ab322ee48a4cc71d6d97eb2ff9958851ea7549792a1b8d524f723"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
@@ -242,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "b4d3904a4b61cce8ecb2814d74351b58c0c3ff3676fd1064e9a1300d302fc55a"
+hash = "b1e7dd85695abd68eb6ac1060ea4d948b6b62683a2d04b67e114442bb295da7d"
 metafile = true
 
 [[files]]
@@ -252,7 +257,12 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "3207f43011f1e422c2491333eb3882d761056c76d463cd2e0f7acdd4ce85e97c"
+hash = "6e8a89639607fa2228b15c521d324e286850207ec29494c2655649d69b61e644"
+metafile = true
+
+[[files]]
+file = "resourcepacks-y/redstone-tweaks.pw.toml"
+hash = "026deca7528ae37843d4623ede9d8af79e18210f2f1a6d2f1a6f90c5d87c259d"
 metafile = true
 
 [[files]]
