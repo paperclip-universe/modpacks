@@ -261,6 +261,11 @@ hash = "9f099a192392ee51ed679dad76f74806cf1c2fa8c8a37ae015f22c208cfa8236"
 metafile = true
 
 [[files]]
+file = "mods/redstone-tweaks.pw.toml"
+hash = "6f0b711f918620d6fae32145ea5f3012535480e7922e7224434ae21854bc41e3"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true

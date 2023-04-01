@@ -109,3 +109,8 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
+
+[[files]]
+file = "resourcepacks-y/redstone-tweaks.pw.toml"
+hash = "bc590666523cc2ab879f406f64d4211be70d8b2a530f6999e2303188c329f474"
+metafile = true

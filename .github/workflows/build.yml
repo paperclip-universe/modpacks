@@ -41,6 +41,10 @@ jobs:
       - run: pnpm run build:generate
         if: ${{ github.event.inputs.skip-build == 'true' }}
         name: Generate modpack
+      - uses: EndBug/add-and-commit@v9
+        with:
+          message: "Update modpack"
+        name: Commit modpack
       # Get version
       - run: echo "MODPACK_VERSION=$(cat .version)" >> $GITHUB_OUTPUT
         name: Get version
