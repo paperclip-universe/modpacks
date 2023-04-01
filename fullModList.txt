@@ -68,3 +68,6 @@ modrinth/tweakermore
 # Building
 curseforge/worldedit
 curseforge/effortless-building
+
+# Resource Packs
+modrinth/redstonetweaksresourcepack
