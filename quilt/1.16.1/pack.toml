@@ -1,6 +1,6 @@
 name = "Redstonality"
 author = "Wyatt Stanke"
-version = "0.0.4-beta.1"
+version = "0.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
@@ -10,4 +10,4 @@ hash = "c8a0b756ada7ec772dea813e2a978b823547233e6e6c09fe36d0a7d013373b42"
 
 [versions]
 minecraft = "1.16.1"
-quilt = "0.18.6"
+quilt = "0.19.0-beta.3"
