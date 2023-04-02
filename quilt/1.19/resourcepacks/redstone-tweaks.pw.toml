@@ -1,7 +1,7 @@
 name = "Redstone Tweaks"
-filename = "15116634"
+filename = "redstone-tweaks-2-2-1.zip"
 
 [download]
-url = "https://www.planetminecraft.com/texture-pack/redstone-tweaks/download/file/15116634/"
+url = "https://static.planetminecraft.com/files/resource_media/texture/redstone-tweaks-2-2-1.zip"
 hash-format = "sha1"
-hash = "2a6022658a51bd4c1a260935d97842e102f2fd8d"
+hash = "411e9f3c076f14fd8e9997555a374fcbe917fa56"
