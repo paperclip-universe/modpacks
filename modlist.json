@@ -65,6 +65,7 @@
 		{ "type": "modrinth", "name": "tweakermore" },
 		{ "type": "curseforge", "name": "worldedit" },
 		{ "type": "curseforge", "name": "effortless-building" },
+		{ "type": "modrinth", "name": "dark-everywhere" },
 		{
 			"type": "url",
 			"meta": "resourcepack",
