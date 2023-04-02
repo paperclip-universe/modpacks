@@ -261,11 +261,11 @@ hash = "6e8a89639607fa2228b15c521d324e286850207ec29494c2655649d69b61e644"
 metafile = true
 
 [[files]]
-file = "resourcepacks-y/redstone-tweaks.pw.toml"
-hash = "89bff8585cd26499e37bf70ff446a8734d11346d2d5fb8d0d6a2ca023f839167"
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "187b4b7fbf0edfffc6471b5fb927db6a3555c2e8fd6cd03e2bd6be665848a202"
 metafile = true
 
 [[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "187b4b7fbf0edfffc6471b5fb927db6a3555c2e8fd6cd03e2bd6be665848a202"
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "d462d7cbfe7e1de989d48d42e4fd1638ef61254e26fe1c27af2789ef740c6661"
 metafile = true

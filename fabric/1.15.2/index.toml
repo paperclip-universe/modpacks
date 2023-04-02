@@ -66,6 +66,6 @@ hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
-file = "resourcepacks-y/redstone-tweaks.pw.toml"
-hash = "af6167455ec04454d0c5275c6fe599b349324a6b3931bc4dff90531eea6b5cee"
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "486d5e7bfb1ef81fd2ac79e5f8f6039a9fd2f57e7fde0b25653c3280211e8a8d"
 metafile = true
