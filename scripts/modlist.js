@@ -28,7 +28,7 @@ export async function getModlist() {
 					install: () => {
 						return $`packwiz url install ${mod.name} ${
 							mod.url
-						} --meta-folder=${`${mod.meta}s`}-y`;
+						} --meta-folder=${`${mod.meta}s`} -y`;
 					},
 					type: `${mod.type}/${mod.meta}`,
 					name: mod.name,
