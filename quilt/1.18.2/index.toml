@@ -316,6 +316,11 @@ hash = "42653e0671bbbde6f2ac3fa3af3b7068b7c83f2d9f8091dbaa24c758464d7a19"
 metafile = true
 
 [[files]]
+file = "resourcepacks/dark-everywhere.pw.toml"
+hash = "d1a830dadd44d402f2a3ebd592bb1f832cd3fcbea9b9688849e74cf705a5e3d8"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "48b25594241eb69bd789dc30a5171f692064206f17d3a9df1d4c701d16b899c3"
 metafile = true

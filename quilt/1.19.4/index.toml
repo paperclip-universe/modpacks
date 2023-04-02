@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "b78469bae5710c1b0c8e5cb981976f3b69721977934df22cefc3fa4b9ecf83fd"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "f30b15dc574856f6eca824f645537680ca12a6282bee89a33cbced66d6601dca"
+metafile = true
+
+[[files]]
+file = "mods/antighost.pw.toml"
+hash = "23981644f04dfd6272614c3f1b23502af9d772a8044b19f62d699f6b73b3a625"
 metafile = true
 
 [[files]]
@@ -98,6 +108,11 @@ metafile = true
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "42272688975731772ce119e33659091edfff29244dddd147320866c0e5177ee8"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "979d1295d0c4d7497bb4f34fb85316ef331f2c4a3dbf12673345e61bef63c1d0"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Dark Everywhere"
+filename = "Dark Everywhere.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cwUMcX8W/versions/YQsEfR1y/Dark%20Everywhere.zip"
+hash-format = "sha1"
+hash = "49ddbcb321805fb9f893a8da2a9373ed7058cfe0"
+
+[update]
+[update.modrinth]
+mod-id = "cwUMcX8W"
+version = "YQsEfR1y"
