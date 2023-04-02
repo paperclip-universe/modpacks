@@ -54,6 +54,7 @@ jobs:
           modrinth-id: Fe2hWp6Z
           modrinth-token: ${{ secrets.MODRINTH_TOKEN }}
           modrinth-unfeature-mode: subset
+          github-generate-changelog: true
           files-primary: "*.mrpack"
           # All the non-1.19.3 files are uploaded as secondary files
           files-secondary: out/*.mrpack
