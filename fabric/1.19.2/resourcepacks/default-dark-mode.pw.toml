@@ -1,0 +1,13 @@
+name = "Default Dark Mode"
+filename = "Default-Dark-Mode-1.19.2-v1.4.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6SLU7tS5/versions/JtbreFpL/Default-Dark-Mode-1.19.2-v1.4.0.zip"
+hash-format = "sha1"
+hash = "91ec69560723d3d95188296b8eae618af0f7dd6c"
+
+[update]
+[update.modrinth]
+mod-id = "6SLU7tS5"
+version = "JtbreFpL"

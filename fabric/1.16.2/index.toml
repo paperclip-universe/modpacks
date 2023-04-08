@@ -111,6 +111,11 @@ hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "67261970cf89b7f8c43e4b305adb5df3adfabc25aeb4f8932d57dc2c9541f940"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "48b25594241eb69bd789dc30a5171f692064206f17d3a9df1d4c701d16b899c3"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Default Dark Mode"
+filename = "Default-Dark-Mode-1.15-v1.4.0.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6SLU7tS5/versions/4xv8aPbo/Default-Dark-Mode-1.15-v1.4.0.zip"
+hash-format = "sha1"
+hash = "e8a47bfd83686ccc0db64032995a15b6458721d2"
+
+[update]
+[update.modrinth]
+mod-id = "6SLU7tS5"
+version = "4xv8aPbo"

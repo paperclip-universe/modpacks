@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "a407410ae17270a8b18fb344c776743e3b046d21d35c45cc7b4c98f83975c1ac"
+hash = "6262bc99f1a0e2c5c7ce6fbc5b636046d231c75da0ae734ee33f5a013a9339b1"
 metafile = true
 
 [[files]]
@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "46a497398e476b0bbac4a1c9816da987be2a9afc2e62011d584963beef0ba45e"
+hash = "781ecb220c967a27461e50399d81e543d13f70260c4ada1a17c69d14b61c7007"
 metafile = true
 
 [[files]]
@@ -318,6 +318,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/dark-everywhere.pw.toml"
 hash = "66c146e792780ac1b91dfbf88d0b8869db63fafb6bebcfa21f662b15d3dc7af6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "b9f6961e8ede891072ef0dcb212bce67a414bfcb9872b17a897582a0883f9804"
 metafile = true
 
 [[files]]

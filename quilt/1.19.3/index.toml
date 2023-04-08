@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastload.pw.toml"
-hash = "9ab7092cb7e27bec8bb02d195e8f0c6a207b3f1383da7179a57ebd3328778a24"
+hash = "781ecb220c967a27461e50399d81e543d13f70260c4ada1a17c69d14b61c7007"
 metafile = true
 
 [[files]]
@@ -318,6 +318,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/dark-everywhere.pw.toml"
 hash = "9bee0458ade3cfe923fe867cc1416ed9cd135d21835cb041e7f4f1dad816c744"
+metafile = true
+
+[[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "16ad670431e0ff6c3b3d1f9da6ffcd2ee9e5db2c1f5b6185e97d564a4b9ee834"
 metafile = true
 
 [[files]]
