@@ -1,12 +1,12 @@
 name = "Redstonality"
 author = "Wyatt Stanke"
-version = "0.1.2-beta.6"
+version = "0.1.2-beta.7"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "0b5d847bc1959f388ff927fd19cf31debe2ed423b32d8247ba6d608ba8c5f300"
+hash = "040c7fa2bbc096f3e051d7080438cc65e8e47e401631a4c3eaa94e892c5bbd18"
 
 [versions]
 fabric = "0.14.24"
