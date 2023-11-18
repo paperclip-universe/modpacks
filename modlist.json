@@ -66,6 +66,8 @@
 		{ "type": "curseforge", "name": "worldedit" },
 		{ "type": "curseforge", "name": "effortless-building" },
 		{ "type": "modrinth", "name": "default-dark-mode" },
+		{ "type": "curseforge", "name": "g4mespeed" },
+		{ "type": "modrinth", "name": "calcmod" },
 		{
 			"type": "url",
 			"meta": "resourcepack",
