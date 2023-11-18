@@ -1,13 +1,13 @@
 name = "Default Dark Mode"
-filename = "Default-Dark-Mode-1.17-v1.4.0.zip"
+filename = "Default-Dark-Mode-1.17-2023.7.0.zip"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6SLU7tS5/versions/Gphga041/Default-Dark-Mode-1.17-v1.4.0.zip"
+url = "https://cdn.modrinth.com/data/6SLU7tS5/versions/e1aVbPcn/Default-Dark-Mode-1.17-2023.7.0.zip"
 hash-format = "sha1"
-hash = "69cccb544696bb95a4236a213611017c3a27f550"
+hash = "f8540b6541c322f8ea79b70ff5d08b18ef0455c3"
 
 [update]
 [update.modrinth]
 mod-id = "6SLU7tS5"
-version = "Gphga041"
+version = "e1aVbPcn"

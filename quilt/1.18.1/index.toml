@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "28354209e6ad3700ff037fcd546d345bcb99a5825129fb71f013477584f815d9"
+hash = "73ae03a00ee5442c3a02a1eaefbb949eb74a22274d10560891ac933ff36fb998"
 metafile = true
 
 [[files]]
@@ -23,6 +23,16 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "e532362b4e1e74ab0744f1f2f2d949884378015601f17564257218e3f7a1ee10"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "2945a91cf043499f1739c503c58408c12135d9568e76a078cab501d1eb5ead66"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "f4aa6cd88908c5d78d01b0bbaa4ec7391f8adb9e8949aae14edb7b3e1d59a9ff"
 metafile = true
 
 [[files]]
@@ -62,17 +72,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ffc1f6d147394bfeb65b2fb9a78ca7d3365cbf5192c31af1312bc899190e4e34"
+hash = "633c160fec06289fef6f7209055feb6e6cfa2082a1c3ba0c29dff8c7fd8c0d91"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1e3d4b62d2b1224356261ca5f9aece724ed2cc6c8f31c77d64867e6bc173ee9d"
+hash = "0499ad23c79e219c8a1732dfd849ca84907776ed7381cac09faf7f512a039229"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1e28fdae3771169f05e179bf4e410d29dcc8fa826d353996281f10d3399b1fdf"
+hash = "8833de1d1a403de52d734046820f6b888b02e8d571487665c0f772d78a2c3606"
 metafile = true
 
 [[files]]
@@ -108,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "32f86897ed44b041a79f0f90246ac35b400a427f7c206140007b6a9939a225b5"
+metafile = true
+
+[[files]]
+file = "mods/g4mespeed.pw.toml"
+hash = "46b4d8b83e528354bfab31ff4718633b3200ec1f007eb90f91135ecb634855e8"
 metafile = true
 
 [[files]]
@@ -162,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
@@ -177,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "bf69a7d3a8b2f983b937a166df751628caf13d6ff8f83afbcce8eb96c6615a6e"
+hash = "9d903fdb128e98639fca7b110c1d1993bfaddc9025ccbe0d03753c429f895134"
 metafile = true
 
 [[files]]
@@ -187,7 +202,7 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "3da1c6f350407d59ac89fdaf76f28b53b96ab40267edd3f750d9f4c482327d5d"
+hash = "bff14ba437881645192b1a7cf46b317b21d6996d9e14630d70fef096eb75a3ab"
 metafile = true
 
 [[files]]
@@ -202,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
+hash = "63bd12c34c206672ebba460d6d5845fe7ce4fbb86396e8da22aacd1af8d52d22"
 metafile = true
 
 [[files]]
@@ -252,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
@@ -261,13 +276,8 @@ hash = "e6ba9de793b4a2f17af696d125a115aa0f1b664fc9403cbedb122479980ce25d"
 metafile = true
 
 [[files]]
-file = "resourcepacks/dark-everywhere.pw.toml"
-hash = "d1a830dadd44d402f2a3ebd592bb1f832cd3fcbea9b9688849e74cf705a5e3d8"
-metafile = true
-
-[[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "15af405e253fde191e1b33c3882f31ed866f0ea96261ad17532cf58ee64faad3"
+hash = "199e025539ce55291cb02580c4648a7a07a8700e1902aa72c95fe317c29db337"
 metafile = true
 
 [[files]]

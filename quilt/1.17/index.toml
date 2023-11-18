@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "e8d97f1633d9f3112579806bcad67083338e374b671b6a264bbfc1e91dbbb139"
+hash = "52da49d3ce9f576cf3d82a631186d5075bd2e2b89cd25fa607434d3ad0f34e4b"
 metafile = true
 
 [[files]]
@@ -36,8 +36,18 @@ hash = "8344401f3ab02bd9835655eea8de27337f4dc846b54643cf5e3eeb078c70230a"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "f18231e7758584c5683850e340bd829edd1e4dae47321286d97ff570dc229a3d"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "bceaf14f1769ae0e3372e18521fe034c834117df156881265d3663a161605ee0"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "26892baa7e16365c7b34d71035024af19f45e1a202464ed05bd0942832fd0efb"
 metafile = true
 
 [[files]]
@@ -57,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "3857abd9f3a660111f3e4f3e41572b6efd471f50c08b7832510aef982e15f5df"
+hash = "633c160fec06289fef6f7209055feb6e6cfa2082a1c3ba0c29dff8c7fd8c0d91"
 metafile = true
 
 [[files]]
@@ -67,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "3f68436db5d096958f233e0c321d6d746521dfc2edc81294da02eb0d4a9af9f5"
+hash = "62f336c13416e46e66d223d3d5336a1acc420fecc05ce2bd6288a42a5c3b54c6"
 metafile = true
 
 [[files]]
@@ -132,7 +142,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
@@ -147,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "98808bf1e0be79acf5112b5bd3546285faf94028bca97cc4baa8ab20db893495"
+hash = "549f1a7f99a7fc2562b8843c72de389e410b6b498ad59a9cd5e1e9ecfd973a23"
 metafile = true
 
 [[files]]
@@ -182,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "c4b39d6b13dcf2a9ee6b807a0147a6fab4e28bd68b5fd9b71f0af33d7caa3c2a"
+hash = "7cdebc485f7c098540e84ee6e58de51f1195391f5d7b9fb770b24f798c1a15be"
 metafile = true
 
 [[files]]

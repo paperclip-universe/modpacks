@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "10232a73de053331b003dc55118710c7af56fcdd8de43c36e450bcdf2a565dce"
+hash = "fe89451dffbe08f43e6c03e45db74570bb1c5259cd31eede28c44e3b92345054"
 metafile = true
 
 [[files]]
@@ -21,8 +21,18 @@ hash = "3505f84a864af0da9269202edaa08002534f439d41a6cd475cc14b35a3f44963"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "2928947026752a5312c8a45361f53452d1c2da6a9504c56519fe65a997d5c585"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "898cbd0c48cddba1208b95d61ddbc7fd6ced75ae8d641aa043e1aceb9ad25c72"
+metafile = true
+
+[[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "824dd9b51f68064d2df955b88556302995d1fc49767ec1c600b087beb50d8c16"
+hash = "20fc254b8b3e628bf9b47fa7e12a5a3c71748df052a59135d2e649c35528c7dd"
 metafile = true
 
 [[files]]
@@ -37,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "7227ae7ebc90974368b355d80fd7e6bf76e7fe9946237e8cbc9a3f43f3488b0f"
+hash = "633c160fec06289fef6f7209055feb6e6cfa2082a1c3ba0c29dff8c7fd8c0d91"
 metafile = true
 
 [[files]]
@@ -47,12 +57,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "cc62c39be7b1e92038627ee2d8157b3e96d020aed56957327c1324c3419bad37"
+hash = "2ab60686ce7ed6734be3d0c4756fd4ff1ce684a1a651bab79e97389422823813"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b2dd1c198be544a8f3b800c24ab90c372f7fc989bb4692f34766d8c3cadcab90"
+hash = "45334159c5d2823aff82cb4d53ad1c83721ada69ae56f7ac08b86e829f62810a"
 metafile = true
 
 [[files]]
@@ -62,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "7defc57c326a31b1821ed69396f32925d6d429db00420280b53636db7d400b33"
+hash = "7f92dec9bc5acaecdb0296602701e7ec8712ff3cb0610da8abf5a09e88661ce8"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "e2ccf61a06f7fc68edc434cd409804f2e2174433f7368b8042d0b58ef8b83e96"
+hash = "752fef9cc4c9305a37cbd20a64324cdff82311681234b85eb39e23640151749a"
 metafile = true
 
 [[files]]
@@ -78,6 +88,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "51c317a3ab72589f7f7856a15421f6a52fe2fc73eb81a1b3dd3269dc92252262"
+metafile = true
+
+[[files]]
+file = "mods/g4mespeed.pw.toml"
+hash = "2714cacb4f914af5d61c75c51aa9d89d3604bb8aab02cb8a05565627b728570b"
 metafile = true
 
 [[files]]
@@ -122,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "f11048feeed06f6c4db287adcc1eaa338b092b3585e0abc423e21037ccb26264"
+hash = "51af98f6326ba43eca40df9ffa1b96306785b808024495382eb03bafd6b4dea0"
 metafile = true
 
 [[files]]
@@ -132,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "8ef7a314068f354c9884e0d1a71cc647843b61c9be3b786742d796166b91bfb5"
+hash = "d21b63b0bff762b8fb83d58716aa473ab388bb7fb51e84f94187efd6147e049f"
 metafile = true
 
 [[files]]
@@ -142,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "748714dcfedd603a422361127773a00c693d48e4fafb99dcc30c3108b7afca63"
+hash = "3e80d36fe7e575900040f31a47026571e72a0acdfb8b5767d484ff4e4bdb0801"
 metafile = true
 
 [[files]]
@@ -162,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "a948c5aaa187aa7bd16c58130056e1e52353d8f84bd2d4f88c28b7b76620748a"
+hash = "b72ba86df6f4051a937e20d048b2fd04d765aa60d38f4825cf9687e22e21097d"
 metafile = true
 
 [[files]]
@@ -177,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "67261970cf89b7f8c43e4b305adb5df3adfabc25aeb4f8932d57dc2c9541f940"
+hash = "eb19067e0c7ac440937fd8ec132f74db8cb584035f2cbc1948c70279eca55bd7"
 metafile = true
 
 [[files]]

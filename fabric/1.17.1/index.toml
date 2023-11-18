@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "e8d97f1633d9f3112579806bcad67083338e374b671b6a264bbfc1e91dbbb139"
+hash = "52da49d3ce9f576cf3d82a631186d5075bd2e2b89cd25fa607434d3ad0f34e4b"
 metafile = true
 
 [[files]]
@@ -36,8 +36,18 @@ hash = "1b7a2ea2d33a47f021c7680d4ead9082c80323b111eb2651ae3631b582c1b84c"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "f18231e7758584c5683850e340bd829edd1e4dae47321286d97ff570dc229a3d"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "bceaf14f1769ae0e3372e18521fe034c834117df156881265d3663a161605ee0"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "2920d495ec6a2ea752c5f00200145080452278b9bb9f042bbfdf45c0a7464821"
 metafile = true
 
 [[files]]
@@ -47,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "017fe286c7c6c1cb818117e362df910073515840b98bc15b625aa73e3bb22991"
+hash = "ac6707ce64a32a7e4833cde086a86f66d6d1b4197d151a2ee3235bb42b5913d3"
 metafile = true
 
 [[files]]
@@ -72,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d0b33298602abec2d9490ed44acafd46f5fa85b14947f45d6d4f9cbc39dbd145"
+hash = "633c160fec06289fef6f7209055feb6e6cfa2082a1c3ba0c29dff8c7fd8c0d91"
 metafile = true
 
 [[files]]
@@ -82,12 +92,12 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "3f68436db5d096958f233e0c321d6d746521dfc2edc81294da02eb0d4a9af9f5"
+hash = "62f336c13416e46e66d223d3d5336a1acc420fecc05ce2bd6288a42a5c3b54c6"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "29d2b7e4f1102f7146c3e72a0196a98f79e1c1e8123f69c5d2da1636d243b6b5"
+hash = "ad65fba50eae029be5b58d3a7fe27c7e978cd0d37d239390a495d8bd7719ee80"
 metafile = true
 
 [[files]]
@@ -97,12 +107,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes-interop.pw.toml"
-hash = "bb284a95fb5a36f01120e91d502ca8d2c0486b4fc71daa128e009bc9a620b4d3"
+hash = "1d49d593cc1312157528bc050e545ae250ad4ec542094724a0217e8875a7cdf1"
 metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "0470abf725bdd530cde1a630221bf09ac2baf2705471b7e49a8abc89700dba19"
+hash = "9730e3a8999a1d6acbf4181b4b16ac4a401dec792fdcd2d628f52f34da33903b"
 metafile = true
 
 [[files]]
@@ -118,6 +128,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "c60a5d573f70afadc214395c106ad52456e507b8a873c16e6d0f5083fb0e8529"
+metafile = true
+
+[[files]]
+file = "mods/g4mespeed.pw.toml"
+hash = "ca0cc43bae91f8d8a3b6569a401ccc4edadf258b892ff54a76b67fcfeb894a58"
 metafile = true
 
 [[files]]
@@ -167,7 +182,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
 metafile = true
 
 [[files]]
@@ -182,12 +197,12 @@ metafile = true
 
 [[files]]
 file = "mods/morechathistory.pw.toml"
-hash = "98808bf1e0be79acf5112b5bd3546285faf94028bca97cc4baa8ab20db893495"
+hash = "549f1a7f99a7fc2562b8843c72de389e410b6b498ad59a9cd5e1e9ecfd973a23"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "66882d22485b9a044a06ae5f7829673eecf92cbf621da127c1df1590cca8f98b"
+hash = "bdd30531bffee4f7c0099ef2d188a000279bb4e3786328720bfe7ef35fbed8fc"
 metafile = true
 
 [[files]]
@@ -212,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/tweakermore.pw.toml"
-hash = "b912320aad3655500e2db0a9d1ab02fda8e7b1ee9370894c103ba55672ff0e52"
+hash = "9fb0bf1b7e48c73fbd46c62f035e6e4696088e99c698f137ebea220d4dac28fd"
 metafile = true
 
 [[files]]
@@ -227,12 +242,12 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "c4b39d6b13dcf2a9ee6b807a0147a6fab4e28bd68b5fd9b71f0af33d7caa3c2a"
+hash = "7cdebc485f7c098540e84ee6e58de51f1195391f5d7b9fb770b24f798c1a15be"
 metafile = true
 
 [[files]]

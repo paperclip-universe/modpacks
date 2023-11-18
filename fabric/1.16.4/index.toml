@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "10232a73de053331b003dc55118710c7af56fcdd8de43c36e450bcdf2a565dce"
+hash = "fe89451dffbe08f43e6c03e45db74570bb1c5259cd31eede28c44e3b92345054"
 metafile = true
 
 [[files]]
@@ -21,8 +21,18 @@ hash = "3505f84a864af0da9269202edaa08002534f439d41a6cd475cc14b35a3f44963"
 metafile = true
 
 [[files]]
+file = "mods/calcmod.pw.toml"
+hash = "2928947026752a5312c8a45361f53452d1c2da6a9504c56519fe65a997d5c585"
+metafile = true
+
+[[files]]
+file = "mods/carpet-extra.pw.toml"
+hash = "2e1e7f778b7c4443d63c557858c2a0bb82e5a2c86b398ecdb06e6a2c9e30dcb6"
+metafile = true
+
+[[files]]
 file = "mods/carpet-tis-addition.pw.toml"
-hash = "824dd9b51f68064d2df955b88556302995d1fc49767ec1c600b087beb50d8c16"
+hash = "20fc254b8b3e628bf9b47fa7e12a5a3c71748df052a59135d2e649c35528c7dd"
 metafile = true
 
 [[files]]
@@ -42,7 +52,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "cc62c39be7b1e92038627ee2d8157b3e96d020aed56957327c1324c3419bad37"
+hash = "2ab60686ce7ed6734be3d0c4756fd4ff1ce684a1a651bab79e97389422823813"
 metafile = true
 
 [[files]]
@@ -92,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "f11048feeed06f6c4db287adcc1eaa338b092b3585e0abc423e21037ccb26264"
+hash = "51af98f6326ba43eca40df9ffa1b96306785b808024495382eb03bafd6b4dea0"
 metafile = true
 
 [[files]]
@@ -147,7 +157,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "67261970cf89b7f8c43e4b305adb5df3adfabc25aeb4f8932d57dc2c9541f940"
+hash = "eb19067e0c7ac440937fd8ec132f74db8cb584035f2cbc1948c70279eca55bd7"
 metafile = true
 
 [[files]]

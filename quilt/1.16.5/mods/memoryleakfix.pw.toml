@@ -1,13 +1,13 @@
 name = "Memory Leak Fix"
-filename = "memoryleakfix-fabric-pre1.17-1.0.0.jar"
+filename = "memoryleakfix-fabric-pre1.17-1.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/9UDEn8ja/memoryleakfix-fabric-pre1.17-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/NRjRiSSD/versions/IRQCDoh9/memoryleakfix-fabric-pre1.17-1.1.2.jar"
 hash-format = "sha1"
-hash = "ca4f577f03c7e32caedff7eacb067483d702fe3d"
+hash = "8586ef3040e3026ccb435674deaa001da50f2095"
 
 [update]
 [update.modrinth]
 mod-id = "NRjRiSSD"
-version = "9UDEn8ja"
+version = "IRQCDoh9"

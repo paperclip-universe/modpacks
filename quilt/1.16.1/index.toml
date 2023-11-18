@@ -2,7 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
-hash = "10232a73de053331b003dc55118710c7af56fcdd8de43c36e450bcdf2a565dce"
+hash = "fe89451dffbe08f43e6c03e45db74570bb1c5259cd31eede28c44e3b92345054"
+metafile = true
+
+[[files]]
+file = "mods/calcmod.pw.toml"
+hash = "2928947026752a5312c8a45361f53452d1c2da6a9504c56519fe65a997d5c585"
 metafile = true
 
 [[files]]
@@ -12,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "cc62c39be7b1e92038627ee2d8157b3e96d020aed56957327c1324c3419bad37"
+hash = "2ab60686ce7ed6734be3d0c4756fd4ff1ce684a1a651bab79e97389422823813"
 metafile = true
 
 [[files]]
@@ -42,12 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "f11048feeed06f6c4db287adcc1eaa338b092b3585e0abc423e21037ccb26264"
+hash = "51af98f6326ba43eca40df9ffa1b96306785b808024495382eb03bafd6b4dea0"
 metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "f9d7e8933a8910c67e2d56df0bea1e09aa1d822218ae2a8244941118d31bad40"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "798085e60c72a3d66901fb7bff766ec1302ef43be3fa1356e3b69d6d858ec913"
 metafile = true
 
 [[files]]
@@ -67,12 +77,12 @@ metafile = true
 
 [[files]]
 file = "mods/yosbr.pw.toml"
-hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
 file = "resourcepacks/default-dark-mode.pw.toml"
-hash = "67261970cf89b7f8c43e4b305adb5df3adfabc25aeb4f8932d57dc2c9541f940"
+hash = "eb19067e0c7ac440937fd8ec132f74db8cb584035f2cbc1948c70279eca55bd7"
 metafile = true
 
 [[files]]

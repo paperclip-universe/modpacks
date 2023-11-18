@@ -1,13 +1,13 @@
 name = "Alternate Current"
-filename = "alternate-current-mc1.15-1.5.0.jar"
+filename = "alternate-current-mc1.15-1.7.0.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/cGXi6arS/alternate-current-mc1.15-1.5.0.jar"
+url = "https://cdn.modrinth.com/data/r0v8vy1s/versions/W78bVcwe/alternate-current-mc1.15-1.7.0.jar"
 hash-format = "sha1"
-hash = "60548c062be2fea34c034f46508597faa7da99cc"
+hash = "c8adaae907dc4339b093b6145577789580dcc5fa"
 
 [update]
 [update.modrinth]
 mod-id = "r0v8vy1s"
-version = "cGXi6arS"
+version = "W78bVcwe"

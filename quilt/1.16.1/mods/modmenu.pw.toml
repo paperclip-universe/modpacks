@@ -1,0 +1,13 @@
+name = "Mod Menu"
+filename = "modmenu-1.14.5+build.30.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/3gwnUSKz/modmenu-1.14.5%2Bbuild.30.jar"
+hash-format = "sha1"
+hash = "2874cf766879d6b22f9223f8d739606be1d59c26"
+
+[update]
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "3gwnUSKz"
