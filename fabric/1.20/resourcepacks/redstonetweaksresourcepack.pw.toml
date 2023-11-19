@@ -1,0 +1,13 @@
+name = "Redstone Tweaks"
+filename = "Redstone Tweaks.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VQ3xRU3R/versions/HFKw3SKo/Redstone%20Tweaks.zip"
+hash-format = "sha1"
+hash = "9f5426f15e7ed9c0f685505f6f1eaae9d5732fde"
+
+[update]
+[update.modrinth]
+mod-id = "VQ3xRU3R"
+version = "HFKw3SKo"

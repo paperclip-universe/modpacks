@@ -339,3 +339,8 @@ metafile = true
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "ac3777573b5b6ab16a2a821a9fa3fa20b5201b6ba23fed0a356524f72d322f74"
 metafile = true
+
+[[files]]
+file = "resourcepacks/redstonetweaksresourcepack.pw.toml"
+hash = "cddd62b0472e2ab15ff4665b53049681a66e8483e87d8859b48c2809f926431c"
+metafile = true

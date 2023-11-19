@@ -1,0 +1,13 @@
+name = "Redstone Tweaks"
+filename = "3D Redstone Dust.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VQ3xRU3R/versions/kJi2FtZJ/3D%20Redstone%20Dust.zip"
+hash-format = "sha1"
+hash = "6f515e203650862acbc084743049468ddb77da19"
+
+[update]
+[update.modrinth]
+mod-id = "VQ3xRU3R"
+version = "kJi2FtZJ"
