@@ -1,79 +1,277 @@
 {
 	"mods": [
-		{ "type": "modrinth", "name": "advancementinfo" },
-		{ "type": "modrinth", "name": "alternate-current" },
-		{ "type": "modrinth", "name": "animatica" },
-		{ "type": "modrinth", "name": "antighost" },
-		{ "type": "modrinth", "name": "better-mount-hud" },
-		{ "type": "modrinth", "name": "borderless-mining" },
-		{ "type": "modrinth", "name": "c2me-fabric" },
-		{ "type": "modrinth", "name": "capes" },
-		{ "type": "modrinth", "name": "cem" },
-		{ "type": "modrinth", "name": "cit-resewn" },
-		{ "type": "modrinth", "name": "continuity" },
-		{ "type": "modrinth", "name": "dashloader" },
-		{ "type": "modrinth", "name": "debugify" },
-		{ "type": "modrinth", "name": "dynamic-fps" },
-		{ "type": "modrinth", "name": "ebe" },
-		{ "type": "modrinth", "name": "entityculling" },
-		{ "type": "modrinth", "name": "entitytexturefeatures" },
-		{ "type": "modrinth", "name": "exordium" },
-		{ "type": "modrinth", "name": "fabricskyboxes" },
-		{ "type": "modrinth", "name": "fabricskyboxes-interop" },
-		{ "type": "modrinth", "name": "fabrishot" },
-		{ "type": "modrinth", "name": "fast-better-grass" },
-		{ "type": "modrinth", "name": "fastload" },
-		{ "type": "modrinth", "name": "fastquit" },
-		{ "type": "modrinth", "name": "ferrite-core" },
-		{ "type": "modrinth", "name": "ferrite-core" },
-		{ "type": "modrinth", "name": "hold-that-chunk" },
-		{ "type": "modrinth", "name": "immediatelyfast" },
-		{ "type": "modrinth", "name": "indium" },
-		{ "type": "modrinth", "name": "iris" },
-		{ "type": "modrinth", "name": "krypton" },
-		{ "type": "modrinth", "name": "lambdynamiclights" },
-		{ "type": "modrinth", "name": "language-reload" },
-		{ "type": "modrinth", "name": "lazydfu" },
-		{ "type": "modrinth", "name": "lithium" },
-		{ "type": "modrinth", "name": "main-menu-credits" },
-		{ "type": "modrinth", "name": "memory-leak-fix" },
-		{ "type": "modrinth", "name": "midnightcontrols" },
-		{ "type": "modrinth", "name": "mixin-conflict-helper" },
-		{ "type": "modrinth", "name": "mixintrace" },
-		{ "type": "modrinth", "name": "modelfix" },
-		{ "type": "modrinth", "name": "modmenu" },
-		{ "type": "modrinth", "name": "morechathistory" },
-		{ "type": "modrinth", "name": "moreculling" },
-		{ "type": "modrinth", "name": "no-chat-reports" },
-		{ "type": "modrinth", "name": "optigui" },
-		{ "type": "modrinth", "name": "puzzle" },
-		{ "type": "modrinth", "name": "reeses-sodium-options" },
-		{ "type": "modrinth", "name": "smoothboot-fabric" },
-		{ "type": "modrinth", "name": "sodium" },
-		{ "type": "modrinth", "name": "sodium-extra" },
-		{ "type": "modrinth", "name": "starlight" },
-		{ "type": "modrinth", "name": "vmp-fabric" },
-		{ "type": "modrinth", "name": "yacl" },
-		{ "type": "modrinth", "name": "yosbr" },
-		{ "type": "modrinth", "name": "zoomify" },
-		{ "type": "curseforge", "name": "no-fade" },
-		{ "type": "curseforge", "name": "litematica" },
-		{ "type": "curseforge", "name": "tweakeroo" },
-		{ "type": "modrinth", "name": "carpet" },
-		{ "type": "modrinth", "name": "carpet-extra" },
-		{ "type": "modrinth", "name": "carpet-tis-addition" },
-		{ "type": "modrinth", "name": "tweakermore" },
-		{ "type": "curseforge", "name": "worldedit" },
-		{ "type": "curseforge", "name": "effortless-building" },
-		{ "type": "modrinth", "name": "default-dark-mode" },
-		{ "type": "curseforge", "name": "g4mespeed" },
-		{ "type": "modrinth", "name": "calcmod" },
-		{ "type": "modrinth", "name": "modernfix" },
 		{
-			"type": "url",
-			"meta": "resourcepack",
-			"name": "Redstone Tweaks",
-			"url": "https://static.planetminecraft.com/files/resource_media/texture/redstone-tweaks-2-2-1.zip"
+			"type": "modrinth",
+			"name": "advancementinfo"
+		},
+		{
+			"type": "modrinth",
+			"name": "alternate-current"
+		},
+		{
+			"type": "modrinth",
+			"name": "animatica"
+		},
+		{
+			"type": "modrinth",
+			"name": "antighost"
+		},
+		{
+			"type": "modrinth",
+			"name": "better-mount-hud"
+		},
+		{
+			"type": "modrinth",
+			"name": "borderless-mining"
+		},
+		{
+			"type": "modrinth",
+			"name": "c2me-fabric"
+		},
+		{
+			"type": "modrinth",
+			"name": "capes"
+		},
+		{
+			"type": "modrinth",
+			"name": "cem"
+		},
+		{
+			"type": "modrinth",
+			"name": "cit-resewn"
+		},
+		{
+			"type": "modrinth",
+			"name": "continuity"
+		},
+		{
+			"type": "modrinth",
+			"name": "debugify"
+		},
+		{
+			"type": "modrinth",
+			"name": "dynamic-fps"
+		},
+		{
+			"type": "modrinth",
+			"name": "ebe"
+		},
+		{
+			"type": "modrinth",
+			"name": "entityculling"
+		},
+		{
+			"type": "modrinth",
+			"name": "entitytexturefeatures"
+		},
+		{
+			"type": "modrinth",
+			"name": "exordium"
+		},
+		{
+			"type": "modrinth",
+			"name": "fabricskyboxes"
+		},
+		{
+			"type": "modrinth",
+			"name": "fabricskyboxes-interop"
+		},
+		{
+			"type": "modrinth",
+			"name": "fabrishot"
+		},
+		{
+			"type": "modrinth",
+			"name": "fast-better-grass"
+		},
+		{
+			"type": "modrinth",
+			"name": "fastload"
+		},
+		{
+			"type": "modrinth",
+			"name": "fastquit"
+		},
+		{
+			"type": "modrinth",
+			"name": "ferrite-core"
+		},
+		{
+			"type": "modrinth",
+			"name": "ferrite-core"
+		},
+		{
+			"type": "modrinth",
+			"name": "hold-that-chunk"
+		},
+		{
+			"type": "modrinth",
+			"name": "immediatelyfast"
+		},
+		{
+			"type": "modrinth",
+			"name": "indium"
+		},
+		{
+			"type": "modrinth",
+			"name": "iris"
+		},
+		{
+			"type": "modrinth",
+			"name": "krypton"
+		},
+		{
+			"type": "modrinth",
+			"name": "lambdynamiclights"
+		},
+		{
+			"type": "modrinth",
+			"name": "language-reload"
+		},
+		{
+			"type": "modrinth",
+			"name": "lazydfu"
+		},
+		{
+			"type": "modrinth",
+			"name": "lithium"
+		},
+		{
+			"type": "modrinth",
+			"name": "main-menu-credits"
+		},
+		{
+			"type": "modrinth",
+			"name": "memory-leak-fix"
+		},
+		{
+			"type": "modrinth",
+			"name": "midnightcontrols"
+		},
+		{
+			"type": "modrinth",
+			"name": "mixin-conflict-helper"
+		},
+		{
+			"type": "modrinth",
+			"name": "mixintrace"
+		},
+		{
+			"type": "modrinth",
+			"name": "modelfix"
+		},
+		{
+			"type": "modrinth",
+			"name": "modmenu"
+		},
+		{
+			"type": "modrinth",
+			"name": "morechathistory"
+		},
+		{
+			"type": "modrinth",
+			"name": "moreculling"
+		},
+		{
+			"type": "modrinth",
+			"name": "no-chat-reports"
+		},
+		{
+			"type": "modrinth",
+			"name": "optigui"
+		},
+		{
+			"type": "modrinth",
+			"name": "puzzle"
+		},
+		{
+			"type": "modrinth",
+			"name": "reeses-sodium-options"
+		},
+		{
+			"type": "modrinth",
+			"name": "smoothboot-fabric"
+		},
+		{
+			"type": "modrinth",
+			"name": "sodium"
+		},
+		{
+			"type": "modrinth",
+			"name": "sodium-extra"
+		},
+		{
+			"type": "modrinth",
+			"name": "starlight"
+		},
+		{
+			"type": "modrinth",
+			"name": "vmp-fabric"
+		},
+		{
+			"type": "modrinth",
+			"name": "yacl"
+		},
+		{
+			"type": "modrinth",
+			"name": "yosbr"
+		},
+		{
+			"type": "modrinth",
+			"name": "zoomify"
+		},
+		{
+			"type": "curseforge",
+			"name": "no-fade"
+		},
+		{
+			"type": "curseforge",
+			"name": "litematica"
+		},
+		{
+			"type": "curseforge",
+			"name": "tweakeroo"
+		},
+		{
+			"type": "modrinth",
+			"name": "carpet"
+		},
+		{
+			"type": "modrinth",
+			"name": "carpet-extra"
+		},
+		{
+			"type": "modrinth",
+			"name": "carpet-tis-addition"
+		},
+		{
+			"type": "modrinth",
+			"name": "tweakermore"
+		},
+		{
+			"type": "curseforge",
+			"name": "worldedit"
+		},
+		{
+			"type": "curseforge",
+			"name": "effortless-building"
+		},
+		{
+			"type": "modrinth",
+			"name": "default-dark-mode"
+		},
+		{
+			"type": "curseforge",
+			"name": "g4mespeed"
+		},
+		{
+			"type": "modrinth",
+			"name": "calcmod"
+		},
+		{
+			"type": "modrinth",
+			"name": "redstonetweaksresourcepack"
 		}
-	]
+	],
+	"/// COMMENT": "add REDSTONE TWEAKS WHEN FIXED and maybe `modernfix` and dashloader"
 }
