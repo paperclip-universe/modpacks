@@ -1,12 +1,12 @@
 name = "Redstonality"
 author = "Wyatt Stanke"
-version = "0.1.2-beta.7"
+version = "0.1.2-beta.8"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "96d86976e96e04f46a4e771fc6bbff553f49492c5be4c71374637325aafee543"
+hash = "c46f95a2ddf9283cd5c011e39756e55aca192b6e69ced7cd24325d0a77843f4f"
 
 [versions]
 minecraft = "1.19"

@@ -177,7 +177,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "cd9e975f57957445016f58556136ed293ad29919ac5735aaa587d5c5c251aac0"
+hash = "43986085a6a74e456999737d6f3b68f35bacc0d71aa9ee780e8dc143afd181b1"
 metafile = true
 
 [[files]]
@@ -228,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "47fff2ed63e342e95bf9a0ad086d896148195bbcbc25260300ca1b27d454f7b8"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "5c8e51c97b69e963838fe5b83d80f3355a31a22bec817a9f34d3a17fab3b7afa"
 metafile = true
 
 [[files]]
