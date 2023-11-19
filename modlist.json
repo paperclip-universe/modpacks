@@ -68,7 +68,6 @@
 		{ "type": "modrinth", "name": "default-dark-mode" },
 		{ "type": "curseforge", "name": "g4mespeed" },
 		{ "type": "modrinth", "name": "calcmod" },
-		{ "type": "modrinth", "name": "ksyxis" },
 		{ "type": "modrinth", "name": "modernfix" },
 		{
 			"type": "url",
